@@ -6,10 +6,7 @@ Welcome! This repository is here to serve as an example from the aforementioned 
 
 ### Setup (If not following the tutorial)
 1. Clone the repo.
-2. yarn link the directories
-   1. Link the shared directory `cd packages/shared && yarn link && cd ../`
-   2. Link the web & app directories `cd app && yarn link "shared" && cd ../web && yarn link "shared"`
-3. install all the dependencies
+2. install all the dependencies
    1. yarn from any folder `yarn`
    2. install pods `cd packages/app/ios && pod install`
    

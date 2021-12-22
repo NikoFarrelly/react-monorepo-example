@@ -1,4 +1,4 @@
-#React/React-native monorepo with Yarn workspaces
+# React/React-native monorepo with Yarn workspaces
 
 You probably find this repo from this [tutorial](https://nickhfarrelly.medium.com/react-react-native-monorepo-with-yarn-workspaces-tutorial-a55e7f4d2d86).
 

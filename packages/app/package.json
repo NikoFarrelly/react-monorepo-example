@@ -3,7 +3,15 @@
   "version": "0.0.1",
   "private": true,
   "workspaces": {
-    "nohoist": ["**"]
+    "nohoist": [
+      "**/react-native",
+      "**/react-native/**",
+      "jetifier",
+      "react-native-safe-area-context",
+      "react-native-screens",
+      "@react-native-community/**",
+      "@react-navigation/**"
+    ]
   },
   "scripts": {
     "android": "react-native run-android",
